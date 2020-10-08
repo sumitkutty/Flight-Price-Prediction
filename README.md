@@ -7,3 +7,11 @@
 * The algorithm used for this project was Random Forest, which performed well after adequate feature engineering and hyperparameter tuning.
 
 * The model attained adjusted R^2 score of 90.30%.
+
+
+# Code and References
+Python Version: 3.7 
+
+Packages: numpy,pandas, matplotlib, sklearn, seaborn, Flask, pickle
+
+Flask Implementation: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
