@@ -1,4 +1,4 @@
-# Flight-Price-Prediction
+# Flight-Price-Prediction: Overview
 
 * The objective of this project is to implement a regressor to predict the fares of flights on the basis of different features like source, destination , date etc.
 
